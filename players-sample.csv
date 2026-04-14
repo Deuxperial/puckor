@@ -1,0 +1,16 @@
+name,number,position,handedness,team_id
+Alexandre Dupont,10,Ailier,Gaucher,REPLACE_WITH_TEAM_UUID_1
+Marc Tremblay,25,Défenseur,Droitier,REPLACE_WITH_TEAM_UUID_1
+Jean-François Roy,7,Centre,Ambidextre,REPLACE_WITH_TEAM_UUID_1
+Philippe Gagnon,91,Ailier,Gaucher,REPLACE_WITH_TEAM_UUID_1
+Stéphane Bergeron,4,Défenseur,Droitier,REPLACE_WITH_TEAM_UUID_1
+Nicolas Lefebvre,13,Ailier,Droitier,REPLACE_WITH_TEAM_UUID_2
+David Martin,22,Gardien,Gaucher,REPLACE_WITH_TEAM_UUID_2
+François Dubois,19,Centre,Droitier,REPLACE_WITH_TEAM_UUID_2
+Michel Pelletier,88,Ailier,Gaucher,REPLACE_WITH_TEAM_UUID_2
+Robert Lachance,3,Défenseur,Droitier,REPLACE_WITH_TEAM_UUID_2
+Louis Deschamps,15,Ailier,Ambidextre,REPLACE_WITH_TEAM_UUID_3
+Pierre Moreau,30,Gardien,Droitier,REPLACE_WITH_TEAM_UUID_3
+André Lamontagne,12,Centre,Gaucher,REPLACE_WITH_TEAM_UUID_3
+Jacques Rousseau,55,Défenseur,Droitier,REPLACE_WITH_TEAM_UUID_3
+Thomas Girard,21,Ailier,Droitier,REPLACE_WITH_TEAM_UUID_3
